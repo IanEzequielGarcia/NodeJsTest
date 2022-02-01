@@ -1,2 +1,7 @@
 # NodeJsTest
-Probando cosas con NodeJS, html y bootstrap
+Probando cosas con NodeJS, html css&bootstrap
+
+Modulos
+-express
+-cjs
+-nodemon
